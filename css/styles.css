@@ -3888,6 +3888,7 @@ td:last-child {
 
 @media screen and (max-width: 600px) {
     .s-intro__content-text {
+        margin-top: 380px;
         max-width: 80vw;
     }
 
